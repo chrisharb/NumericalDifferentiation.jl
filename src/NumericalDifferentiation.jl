@@ -1,4 +1,4 @@
-amodule NumericalDifferentiation
+module NumericalDifferentiation
 
 export differentiate, integrationoperator, TotalVariation, Tikhonov
 
